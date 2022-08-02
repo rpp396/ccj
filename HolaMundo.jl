@@ -1,0 +1,1 @@
+pintln("Hola, mundo!")
